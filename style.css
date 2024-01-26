@@ -1,0 +1,23 @@
+.grid{
+    border: 1px solid black;
+    width: 40px;
+    height: 40px;
+    transition: all 500ms ease;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+/* .grid:hover{
+
+} */
+.btn{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+button{
+    border-radius: 10px;
+    border: 1px solid black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
